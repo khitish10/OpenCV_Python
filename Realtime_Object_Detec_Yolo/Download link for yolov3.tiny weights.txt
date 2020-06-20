@@ -1,0 +1,2 @@
+download yolov3 tiny weights from URL below
+https://pjreddie.com/darknet/yolo/
