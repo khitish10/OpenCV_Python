@@ -1,0 +1,2 @@
+download yolov3.wights file from below URL
+wget https://pjreddie.com/media/files/yolov3.weights
